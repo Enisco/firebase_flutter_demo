@@ -1,0 +1,48 @@
+/*
+
+- Create a page for admin to register vacc centers and hospitals and verification centers with the following details:
+	Vaccination centre name
+	Contact info (address, phone number)
+	Assign them ID and password
+
+
+- Create a page for vacc centers and hospitals to input the following details:
+	Name of the person (Surname, First name, Last name)
+	Age
+	Gender
+	Vaccination number
+	Contact details (address, phone number)
+	Means of Identification (NIN, Voter's card)
+	Date of vaccination (first, second and booster jabs)
+	Due date for the next jab
+	Vaccination centre name
+	Type of vaccine received
+
+
+- Create a page for verification centers to verify individuals' details by entering 'Vaccination ID (which is doc on forestore)':
+- They will be able to see the following details if ID is relevant:
+	Name of the person (Surname, First name, Last name)
+	Age
+	Gender
+	Vaccination number
+	Contact details (address, phone number)
+	Means of Identification (NIN, Voter's card)
+	Date of vaccination (first, second and booster jabs)
+	Due date for the next jab
+	Vaccination centre name
+	Type of vaccine received
+
+
+- Create a page for individuals to view their personal details which the system automatically provides taking their ID as doc name:
+	Name of the person (Surname, First name, Last name)
+	Age
+	Gender
+	Vaccination number
+	Contact details (address, phone number)
+	Means of Identification (NIN, Voter's card)
+	Date of vaccination (first, second and booster jabs)
+	Due date for the next jab
+	Vaccination centre name
+	Type of vaccine received
+
+*/
